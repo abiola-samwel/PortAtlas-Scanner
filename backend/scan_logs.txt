@@ -1,0 +1,1 @@
+2025-09-08T10:41:30Z KEY=LOCAL IP=127.0.0.1 TARGET=scanme.nmap.org PORTS=22,80 TYPE=tcp_connect
